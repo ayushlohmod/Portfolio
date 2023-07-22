@@ -1,0 +1,32 @@
+{
+  "name": "portfolio",
+  "version": "1.32.1",
+  "description": "My portfolio website",
+  "main": "index.html",
+  "scripts": {
+    "format": "prettier --write .",
+    "start": "index.html",
+    "prepare": "husky install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayushlohmod/Portfolio.git"
+  },
+  "author": "ayush",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ayushlohmod/Portfolio/issues"
+  },
+  "homepage": "https://github.com/ayushlohmod/Portfolio#readme",
+  "dependencies": {
+    "eslint-plugin-prettier": "^5.0.0",
+    "prettier": "^3.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.45.0",
+    "husky": "^8.0.3"
+  },
+  "cypress-cucumber-preprocessor": {
+    "nonGlobalStepDefinitions": true
+  }
+}
