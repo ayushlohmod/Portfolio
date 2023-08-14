@@ -4,7 +4,7 @@ This is my custom portfolio website made using _HTML_, _CSS_ and _JavaScript_.
 
 The website is deployed to **GitHub Pages** and can be found [here](https://ayushlohmod.github.io/Portfolio/).
 
-![portfolio](https://github.com/ayushlohmod/100-days-of-code/blob/main/img/portfolio.jpg)
+![portfolio](https://github.com/ayushlohmod/100-days-of-code/blob/main/img/Portfolioss.img)
 
 ## Prerequisites
 
