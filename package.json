@@ -20,7 +20,7 @@
   "homepage": "https://github.com/ayushlohmod/Portfolio#readme",
   "dependencies": {
     "eslint-plugin-prettier": "^5.0.0",
-    "prettier": "^3.0.0"
+    "prettier": "^3.0.3"
   },
   "devDependencies": {
     "eslint": "^8.45.0",
